@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.btn-enviar{
+background-color: gold;
+}
+.btn-enviar:hover{
+    background-color: white;
+}
+.titulos{
+    color: darkgoldenrod;
+}
+.imagenLogin{
+    border-radius: 50%;
+    width: 160px;
+    height: 150px;
+}
+.contenedor-imagen{
+text-align: center;
+color: gold;
+}    
+
+.espacio{
+    padding: 30px;
+    border-color: white;
+    border: solid 1px;
+}
+.Bienvenidos{
+    text-decoration: goldenrod;
+    text-align: center;
+}
